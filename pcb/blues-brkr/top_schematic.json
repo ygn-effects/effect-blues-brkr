@@ -3318,12 +3318,6 @@
                     "net": "953f378e-f368-4a22-9560-090233556068",
                     "orientation": "down"
                 },
-                "27c479d6-3023-44c9-9ff2-a24db6dd3e94": {
-                    "junction": "562b0146-77c5-42cd-be66-48cc9abb6c69",
-                    "mirror": false,
-                    "net": "8498ea5d-f77d-4120-b7fe-462820666f58",
-                    "orientation": "up"
-                },
                 "2ca7b0b9-10f1-4dbe-bd58-4fc3f8eb183f": {
                     "junction": "4257cedb-7606-4714-b3e8-84a3a39b0534",
                     "mirror": false,
@@ -3353,6 +3347,12 @@
                     "mirror": false,
                     "net": "8498ea5d-f77d-4120-b7fe-462820666f58",
                     "orientation": "right"
+                },
+                "4581fa3e-82f1-4572-a1d7-d79383d42006": {
+                    "junction": "562b0146-77c5-42cd-be66-48cc9abb6c69",
+                    "mirror": false,
+                    "net": "9ce24954-fc0f-453c-a163-0114dfd8569a",
+                    "orientation": "up"
                 },
                 "484addf6-2be9-49b1-92e2-13ea0af9db38": {
                     "junction": "e20aed20-b985-4968-b07b-9676a16e7f55",
@@ -3644,7 +3644,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
+                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 0,
@@ -3758,7 +3758,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
+                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 16384,
@@ -3891,7 +3891,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
+                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 16384,
@@ -4043,7 +4043,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
+                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 49152,
@@ -4138,7 +4138,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
+                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 16384,
@@ -4309,7 +4309,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "9e4f90b5-bb69-45a2-ac02-bcc53f63b87a",
+                    "gate": "899fe2c0-306b-47c4-adac-ac70c3e753ac",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 49152,
