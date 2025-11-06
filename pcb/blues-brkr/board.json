@@ -466,6 +466,22 @@
             "smashed": false,
             "texts": []
         },
+        "02b2500c-2f56-4676-a299-867f772d7e1e": {
+            "component": "96cc2743-e484-4426-9ee8-cbcac6d6fcbe",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    40650000,
+                    47650000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "0315ecdc-d4d9-4b8f-b29a-f9b12fd8909f": {
             "component": "1608ccc4-038b-4b04-9b82-35f1ecf07287",
             "fixed": false,
@@ -475,8 +491,8 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    20600000,
-                    31400000
+                    27140000,
+                    41760000
                 ]
             },
             "smashed": false,
@@ -488,11 +504,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    5400000,
-                    29700000
+                    15320000,
+                    34800000
                 ]
             },
             "smashed": false,
@@ -504,11 +520,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 16384,
+                "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    22300000,
-                    45300000
+                    25500000,
+                    62700000
                 ]
             },
             "smashed": false,
@@ -520,11 +536,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    -11800000,
-                    44000000
+                    23140000,
+                    35160000
                 ]
             },
             "smashed": false,
@@ -536,11 +552,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    3900000,
-                    32600000
+                    13480000,
+                    32870000
                 ]
             },
             "smashed": false,
@@ -555,8 +571,40 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    25700000,
-                    45100000
+                    31100000,
+                    62700000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "1ab3e0f4-93aa-40c9-8067-dfd0da0e5c9e": {
+            "component": "7bc6e58e-8fa0-49ee-828d-df702f59a667",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    36220000,
+                    46949999
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "20d33545-4cf8-42d2-b8a0-7a5b6457b358": {
+            "component": "26ba59cf-5905-46dd-b830-36d791f1a733",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    47550000,
+                    40350000
                 ]
             },
             "smashed": false,
@@ -584,11 +632,27 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    9150000,
-                    36000000
+                    17960000,
+                    39460000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "33573408-7681-46dd-a333-2c12e278d603": {
+            "component": "7301d6bc-80bf-48d3-828b-19841dd76d77",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    41800000,
+                    42690000
                 ]
             },
             "smashed": false,
@@ -650,11 +714,27 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    25749999,
-                    51316657
+                    22700000,
+                    62700000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "48a90c8f-e97d-4f3d-8ffa-9e659f636076": {
+            "component": "ddf4b0ac-7cd9-4734-be7e-41b2a7e75c47",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    46750000,
+                    44840000
                 ]
             },
             "smashed": false,
@@ -666,11 +746,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    17200000,
-                    33900000
+                    4200000,
+                    36820000
                 ]
             },
             "smashed": false,
@@ -682,11 +762,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    -9400000,
-                    47300000
+                    25570000,
+                    35860000
                 ]
             },
             "smashed": false,
@@ -698,11 +778,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    10000000,
-                    41200000
+                    21940000,
+                    41800000
                 ]
             },
             "smashed": false,
@@ -717,8 +797,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    25600000,
-                    57500000
+                    27000000,
+                    56800000
                 ]
             },
             "smashed": false,
@@ -733,8 +813,24 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    25600000,
-                    54400000
+                    27000000,
+                    54000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "6a3b1569-fc18-437e-811a-49caced1104c": {
+            "component": "edf67330-4e2a-444e-be8e-7dc48ed91aaf",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    47550000,
+                    42200000
                 ]
             },
             "smashed": false,
@@ -749,8 +845,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    12500000,
-                    67800000
+                    21340000,
+                    49600000
                 ]
             },
             "smashed": false,
@@ -765,8 +861,24 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    7700000,
-                    31300000
+                    12680000,
+                    35600000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "7ac24c05-b00b-44d6-a977-9ce65b75a0ff": {
+            "component": "1d10f90e-08a0-48b5-93b5-98e431423f23",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    43700000,
+                    47500000
                 ]
             },
             "smashed": false,
@@ -778,11 +890,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 49152,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    7150000,
-                    24300000
+                    13600000,
+                    26400000
                 ]
             },
             "smashed": false,
@@ -794,11 +906,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    9150000,
-                    34000000
+                    15320000,
+                    36730000
                 ]
             },
             "smashed": false,
@@ -813,8 +925,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    16700000,
-                    38400000
+                    25440000,
+                    47100000
                 ]
             },
             "smashed": false,
@@ -829,8 +941,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    41200000,
-                    36700000
+                    27940000,
+                    44400000
                 ]
             },
             "smashed": false,
@@ -845,8 +957,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    20300000,
-                    24300000
+                    21700000,
+                    26500000
                 ]
             },
             "smashed": false,
@@ -874,11 +986,27 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    15320000,
+                    38660000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "94d98fe4-788b-4892-8725-96169ee616d7": {
+            "component": "5dae7c31-9b8d-4769-aa57-ab1a8c798980",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    6250000,
-                    34900000
+                    48680000,
+                    44840000
                 ]
             },
             "smashed": false,
@@ -906,11 +1034,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -7400000,
-                    44500000
+                    19960000,
+                    35440000
                 ]
             },
             "smashed": false,
@@ -932,17 +1060,49 @@
             "smashed": false,
             "texts": []
         },
+        "a17bee7a-4a0f-4286-b91f-a13e36ff4526": {
+            "component": "eada048f-cc20-4b7e-a510-78da32a4137e",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    42700000,
+                    53180000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "a5993d38-4f77-4b4e-b3a5-77ced32b895f": {
             "component": "f1e0fb0f-175e-48d9-91b7-ec278eb307db",
             "fixed": false,
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    11800000,
-                    45300000
+                    17945000,
+                    43670000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "a7ac6fd6-86c7-4489-8f35-e12e4d66ae75": {
+            "component": "a918f128-290a-4b67-85a4-f966cfa22771",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    41800000,
+                    44620000
                 ]
             },
             "smashed": false,
@@ -957,8 +1117,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    12330000,
-                    32500000
+                    7200000,
+                    37400000
                 ]
             },
             "smashed": false,
@@ -970,11 +1130,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -7000000,
-                    41900000
+                    19960000,
+                    33510000
                 ]
             },
             "smashed": false,
@@ -989,8 +1149,40 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    9750000,
-                    31300000
+                    10800000,
+                    35600000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "b48ca317-e6ad-4f8a-b091-d1d9f8ca7bcd": {
+            "component": "89da4979-1f6a-40bf-b5ad-7cc8bb6c1c45",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    51110000,
+                    46000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "bc0669dd-bfaf-41ef-9eb4-532007d7b9fd": {
+            "component": "6cd4deae-4533-4791-99f0-d0690f80adad",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    51110000,
+                    41680000
                 ]
             },
             "smashed": false,
@@ -1023,8 +1215,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    22900000,
-                    31400000
+                    28970000,
+                    41760000
                 ]
             },
             "smashed": false,
@@ -1039,8 +1231,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    13700000,
-                    24300000
+                    5500000,
+                    26500000
                 ]
             },
             "smashed": false,
@@ -1084,11 +1276,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    16700000,
-                    31000000
+                    5700000,
+                    33320000
                 ]
             },
             "smashed": false,
@@ -1121,8 +1313,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    29149999,
-                    44816657
+                    28300000,
+                    62700000
                 ]
             },
             "smashed": false,
@@ -1134,11 +1326,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    7500000,
-                    67700000
+                    19640000,
+                    52900000
                 ]
             },
             "smashed": false,
@@ -1150,11 +1342,27 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 16384,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    15900000,
-                    41200000
+                    21940000,
+                    47100000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "ff83cbef-6baa-4fcd-b009-d45f536bf1de": {
+            "component": "bef8d85d-7d79-40c6-a510-396f42d46577",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    47550000,
+                    47500000
                 ]
             },
             "smashed": false,
