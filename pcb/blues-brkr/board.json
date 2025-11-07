@@ -491,8 +491,8 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    27140000,
-                    41760000
+                    27740000,
+                    40960000
                 ]
             },
             "smashed": false,
@@ -507,8 +507,8 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    15320000,
-                    34800000
+                    15340000,
+                    34000000
                 ]
             },
             "smashed": false,
@@ -540,7 +540,7 @@
                 "mirror": false,
                 "shift": [
                     23140000,
-                    35160000
+                    34360000
                 ]
             },
             "smashed": false,
@@ -555,8 +555,8 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    13480000,
-                    32870000
+                    13500000,
+                    32070000
                 ]
             },
             "smashed": false,
@@ -587,7 +587,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    36220000,
+                    35870000,
                     46949999
                 ]
             },
@@ -636,7 +636,7 @@
                 "mirror": false,
                 "shift": [
                     17960000,
-                    39460000
+                    38660000
                 ]
             },
             "smashed": false,
@@ -648,10 +648,10 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 0,
                 "mirror": false,
                 "shift": [
-                    41800000,
+                    41450000,
                     42690000
                 ]
             },
@@ -750,7 +750,7 @@
                 "mirror": false,
                 "shift": [
                     4200000,
-                    36820000
+                    36000000
                 ]
             },
             "smashed": false,
@@ -766,7 +766,7 @@
                 "mirror": false,
                 "shift": [
                     25570000,
-                    35860000
+                    35060000
                 ]
             },
             "smashed": false,
@@ -782,7 +782,7 @@
                 "mirror": false,
                 "shift": [
                     21940000,
-                    41800000
+                    41000000
                 ]
             },
             "smashed": false,
@@ -842,11 +842,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    21340000,
-                    49600000
+                    19975000,
+                    53350000
                 ]
             },
             "smashed": false,
@@ -861,8 +861,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    12680000,
-                    35600000
+                    12700000,
+                    34800000
                 ]
             },
             "smashed": false,
@@ -894,7 +894,7 @@
                 "mirror": false,
                 "shift": [
                     13600000,
-                    26400000
+                    25600000
                 ]
             },
             "smashed": false,
@@ -909,8 +909,8 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    15320000,
-                    36730000
+                    15340000,
+                    35930000
                 ]
             },
             "smashed": false,
@@ -925,8 +925,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    25440000,
-                    47100000
+                    23375000,
+                    49770000
                 ]
             },
             "smashed": false,
@@ -941,8 +941,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    27940000,
-                    44400000
+                    28540000,
+                    43600000
                 ]
             },
             "smashed": false,
@@ -958,7 +958,7 @@
                 "mirror": false,
                 "shift": [
                     21700000,
-                    26500000
+                    25600000
                 ]
             },
             "smashed": false,
@@ -986,11 +986,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    15320000,
-                    38660000
+                    15340000,
+                    37860000
                 ]
             },
             "smashed": false,
@@ -1038,7 +1038,7 @@
                 "mirror": false,
                 "shift": [
                     19960000,
-                    35440000
+                    34640000
                 ]
             },
             "smashed": false,
@@ -1086,7 +1086,7 @@
                 "mirror": false,
                 "shift": [
                     17945000,
-                    43670000
+                    42870000
                 ]
             },
             "smashed": false,
@@ -1101,7 +1101,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    41800000,
+                    41450000,
                     44620000
                 ]
             },
@@ -1118,7 +1118,7 @@
                 "mirror": false,
                 "shift": [
                     7200000,
-                    37400000
+                    36600000
                 ]
             },
             "smashed": false,
@@ -1134,7 +1134,7 @@
                 "mirror": false,
                 "shift": [
                     19960000,
-                    33510000
+                    32710000
                 ]
             },
             "smashed": false,
@@ -1149,8 +1149,8 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    10800000,
-                    35600000
+                    10820000,
+                    34800000
                 ]
             },
             "smashed": false,
@@ -1182,7 +1182,7 @@
                 "mirror": false,
                 "shift": [
                     51110000,
-                    41680000
+                    41690000
                 ]
             },
             "smashed": false,
@@ -1215,8 +1215,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    28970000,
-                    41760000
+                    29570000,
+                    40960000
                 ]
             },
             "smashed": false,
@@ -1232,7 +1232,7 @@
                 "mirror": false,
                 "shift": [
                     5500000,
-                    26500000
+                    25600000
                 ]
             },
             "smashed": false,
@@ -1280,7 +1280,7 @@
                 "mirror": false,
                 "shift": [
                     5700000,
-                    33320000
+                    32520000
                 ]
             },
             "smashed": false,
@@ -1329,8 +1329,8 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    19640000,
-                    52900000
+                    19975000,
+                    57660000
                 ]
             },
             "smashed": false,
@@ -1345,8 +1345,8 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    21940000,
-                    47100000
+                    19975000,
+                    49770000
                 ]
             },
             "smashed": false,
@@ -1552,6 +1552,27 @@
                 "text_style": "expand",
                 "thermal_gap_width": 200000,
                 "thermal_spoke_width": 300000
+            }
+        },
+        "18c3e43f-f1a2-4773-98a6-42d4121dc7eb": {
+            "from_rules": true,
+            "net": "9ce24954-fc0f-453c-a163-0114dfd8569a",
+            "polygon": "62d0a39b-3e0e-4ebe-8455-9ce0be6362a4",
+            "priority": 0,
+            "settings": {
+                "angle": 0,
+                "connect_style": "solid",
+                "fill_style": "solid",
+                "hatch_border_width": 500000,
+                "hatch_line_spacing": 500000,
+                "hatch_line_width": 200000,
+                "keep_orphans": false,
+                "min_width": 200000,
+                "n_spokes": 4,
+                "style": "miter",
+                "text_style": "expand",
+                "thermal_gap_width": 200000,
+                "thermal_spoke_width": 200000
             }
         },
         "2ba33e7d-282d-49da-ac14-9531ce37f404": {
@@ -1852,6 +1873,84 @@
                 }
             ]
         },
+        "62d0a39b-3e0e-4ebe-8455-9ce0be6362a4": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32000000,
+                        8920000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        32000000,
+                        14050000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36000000,
+                        14050000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        36000000,
+                        17320000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        40000000,
+                        17320000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        4997083,
+                        10130263
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        40000000,
+                        8920000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
         "7f76462e-ffbf-4820-af40-d84ac83ea259": {
             "layer": 0,
             "parameter_class": "",
@@ -1983,7 +2082,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        29850000,
+                        29860000,
                         5720000
                     ],
                     "type": "line"
@@ -1995,7 +2094,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        29850000,
+                        29860000,
                         2020000
                     ],
                     "type": "line"
